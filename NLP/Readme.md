@@ -2,14 +2,14 @@
 
 Natural lenguage processig AI-Specialization - UBA (Universidad Nacional de Buenos Aires)
 ![img2](images/logoFIUBA.jpg)\
-![img1](images/NLP.jpg)\
+![img1](images/NLP_Proyectos.jpg)\
 
 ## Vectorización de texto
 Colab: [word 2 vec](https://github.com/Pbrillan/CEIA/blob/main/NLP/P_Brillanti_1a_word2vec_Modificado.ipynb)
 
 ## Bot Simple
 
-Bot basado en reglas con DNN + Spacy.\
+Rule based bot with DNN + Spacy..\
 Colab: [bot_dnn_spacy_esp](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_2b_bot_dnn_spacy_esp.ipynb)
 
 ## Word Embedding
