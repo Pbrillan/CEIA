@@ -1,32 +1,34 @@
-# NLP AI-Specialization-Projects
+# AI NLP-Projects
 
 Natural lenguage processig AI-Specialization - UBA (Universidad Nacional de Buenos Aires)
+![img2](images/logoFIUBA.jpg)\
 ![img1](images/NLP.jpg)\
-## Deep Learning exam
-Colab: [deep_larning_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/deep_learning_exam.ipynb)
 
-## Machine Learning exam
-![img1](images/heart.png)\
+## Vectorización de texto
+Colab: [word 2 vec](https://github.com/Pbrillan/CEIA/blob/main/NLP/P_Brillanti_1a_word2vec_Modificado.ipynb)
+
+## Bot Simple
+
 Study dataset from heart desease. Select best model and optimize with hyperparameter tuning and AI platforms.\
-Colab: [machine_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/machine_learning_exam.ipynb)
+Colab: [bot_dnn_spacy_esp](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_2b_bot_dnn_spacy_esp.ipynb)
 
-## Computer vision exam
-![img1](images/sentinel.png)\
-Analyze satelital images from farming, use computer vision model for classify fields\
-Colab: [computer_vision_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/computer_vision_exam.ipynb)
+## Word Embedding
+The goal is to use documents / corpus to create word embeddings based on that context. Band songs will be used to generate the embeddings, that is, the vectors will have the shape depending on how that band has used the words in their songs.
+Colab: [Custom_embedding_con_Gensim](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_3b_Custom_embedding_con_Gensim.ipynb)
 
-## Natural language processing exam
-![img1](images/sentiment_analysis.png)\
-Sentiment analysis from movies comments. Use differentes approach and compare results:\
-- OneHotEncoding
-- Words2Vec
-- CBOW
-- Fasttext and Glove embeddings
-- LSTM
-- BERT
+## Predicción de proxima palabra
+The goal is to use documents / corpus to create word embeddings based on that context using the Keras Embedding layer. These embeddings will be used together with LSTM layers to predict the next possible word.
+Colab: [predicción_palabra](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_4d_predicci%C3%B3n_palabra.ipynb)
 
-Colab: [NLP_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/nlp_exam.ipynb)
+## Análisis de sentimientos
+Sentiment analysis con Embeddings + LSTM
+Colab: [clothing_ecommerce_reviews](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_5d_clothing_ecommerce_reviews.ipynb)
+
+## Análisis de sentimientos
+Sentiment analysis con Embeddings + LSTM
+Colab: [clothing_ecommerce_reviews](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_5d_clothing_ecommerce_reviews.ipynb)
+
 
 # Thanks!
-Feel free to contact me by mail _hernan4790@gmail.com_ for any doubt.\
+Feel free to contact me by mail _pablobrillanti@gmail.com_ for any doubt.\
 Enjoy :smile:!!
