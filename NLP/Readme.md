@@ -26,7 +26,7 @@ Colab: [clothing_ecommerce_reviews](https://github.com/Pbrillan/CEIA/blob/main/N
 
 ## Bot Conversacional
 LSTM Bot QA.\
-Colab: [bot_qa](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan 6d - bot_qa.ipynb)
+Colab: [bot_qa](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_6d_bot_qa.ipynb)
 
 
 # Thanks!
