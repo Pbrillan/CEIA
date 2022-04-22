@@ -1,6 +1,6 @@
-# AI-Specialization-Projects
+# NLP AI-Specialization-Projects
 
-AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - Final Projects
+Natural lenguage processig AI-Specialization - UBA (Universidad Nacional de Buenos Aires)
 
 ## Deep Learning exam
 Colab: [deep_larning_learning_exam](https://github.com/hernancontigiani/AI-Specialization-Projects/blob/main/deep_learning_exam.ipynb)
