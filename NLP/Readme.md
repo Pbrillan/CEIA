@@ -24,9 +24,9 @@ Colab: [predicción_palabra](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbri
 Sentiment analysis con Embeddings + LSTM.\
 Colab: [clothing_ecommerce_reviews](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_5d_clothing_ecommerce_reviews.ipynb)
 
-## Análisis de sentimientos
-Sentiment analysis con Embeddings + LSTM.\
-Colab: [clothing_ecommerce_reviews](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan_5d_clothing_ecommerce_reviews.ipynb)
+## Bot Conversacional
+LSTM Bot QA.\
+Colab: [bot_qa](https://github.com/Pbrillan/CEIA/blob/main/NLP/Pbrillan 6d - bot_qa.ipynb)
 
 
 # Thanks!
